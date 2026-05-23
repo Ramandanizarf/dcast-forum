@@ -738,3 +738,36 @@ section{
 
   font-style:italic;
 }
+
+/* MORE BUTTON */
+
+.more-link{
+  margin-top:40px;
+
+  display:flex;
+  justify-content:center;
+}
+
+.more-link a{
+  text-decoration:none;
+
+  color:var(--primary);
+
+  font-weight:700;
+  font-size:14px;
+
+  padding:12px 22px;
+
+  border:1px solid var(--primary);
+
+  border-radius:999px;
+
+  transition:0.3s;
+}
+
+.more-link a:hover{
+  background:var(--primary);
+  color:white;
+
+  transform:translateY(-2px);
+}
