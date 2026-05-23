@@ -119,6 +119,7 @@ nav{
   color:var(--muted);
   line-height:1.8;
   max-width:500px;
+  text-align:justify;
 }
 
 .hero-buttons{
