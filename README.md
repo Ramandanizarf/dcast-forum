@@ -1,0 +1,1 @@
+Forum D'Cast adalah landing page website komunitas diecast dan otomotif yang dibuat untuk para kolektor dan pecinta mobil miniatur seperti Hot Wheels, Mini GT, Tomica, Matchbox, dan berbagai brand diecast lainnya.
